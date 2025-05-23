@@ -44,7 +44,8 @@ print(plan)
 ['move_A_to_B', 'move_B_to_C']
 ```
 # Program:
-```Anusharon.S
+```
+Anusharon.S
 Register Number:212222240010
 ```
 ```
